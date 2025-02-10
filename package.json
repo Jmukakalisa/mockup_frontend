@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/core": "^19.1.5",
+    "axios": "^1.7.9"
+  }
+}
